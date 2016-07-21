@@ -1,0 +1,43 @@
+.banner_big{width:100%;}
+.pic{width:1920px;height:340px;margin:0 auto;position:relative;}
+.pic ul{width:11520px;position:absolute;left:0;}
+.pic ul li{float:left;}
+.icon{width:500px;height:340px;background:red;margin:0 auto;}
+.prev,.next {
+        position: absolute;
+        left: 500px;
+        top: 50%;
+        margin-top: -40px;
+        padding: 10px;
+        background: rgba(0, 0, 0, .1);
+        font-size: 30px;
+        color: #ccc;
+        text-decoration: none;
+    }
+    
+    .next {
+        left: auto;
+        right: 500px;
+    }
+    
+    .prev:hover,
+    .next:hover {
+        background-color: rgba(0, 0, 0, .5);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

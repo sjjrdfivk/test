@@ -1,0 +1,44 @@
+html,body,h1,h2,h3,h4,h5,h6,input,ul,ol,dl,li,dt,dd,table,form,filedset,p,b,i{padding:0;margin:0;}
+a{text-decoration:none;color:#666666}
+img{border:0;display:block;}
+h1,h2,h3,h4,h5,h6{font-weight:100;}
+ul,li{list-style:none;}
+body{font:12px "微软雅黑"}
+/* 头部 */
+.topad{background:#ef2a35;}
+.ad_img{width:1000px;height:80px;margin:0 auto;}
+.topnav{height:28px;width:100%;border-bottom:1px solid #dddddd;background:#f6f6f6}
+
+.center_nav{width:1000px;height:28px;margin:0 auto;}
+.center_nav_left,.center_nav_left span,.center_nav_right li{float:left;}
+.center_nav_left span{padding-left:18px;height:28px;line-height: 28px;background:url(img/affiche.jpg) no-repeat left center}
+.center_nav_left ul{width:190px;height:28px;overflow: hidden;line-height: 28px;float:left;}
+.center_nav_left ul li{width:190px;height:28px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
+.center_nav_right ul{float:right;}
+.center_nav_right li{height:28px;line-height:28px;}
+.center_nav_right li span{padding:0 13px 0 10px;}
+.center_nav_right .outpa{padding:0 0 0 26px;background:url(img/cell.jpg) no-repeat 12px center;}
+.header_logo a:hover,.topnav a:hover{color:#f00;}
+
+.header_logo{width:1000px;height:79px;margin:0 auto;padding-top:26px;}
+.logo{width:201px;height:64px;float:left;}
+.search{width:420;height:66px;float: left;margin-left:86px;}
+.search_ce{width:420;height:36px;float: left;}
+.search_l,.search_r{float:left;border:2px solid #f00;}
+.search_l input{width:339px;height:32px;float:left;border:0;color:#bab6b6}
+.search_r input{width:72px;height:32px;float:left;border:0;background:red;color:#fff;}
+.mycart{width:138px;height:30px;border:1px solid #dddddd;position:relative;float:right;text-align:center;line-height:30px;background:url(img/sub.jpg) no-repeat 117px center;}
+.gjc{width:420px;height:30px;line-height:30px;}
+.mycart span{position:absolute;left:14px;top:5px;}
+
+.main_nav{width:100%;height:40px;background:#f70800}
+.nav{width:1000px;height:40px;margin:0 auto;}
+.nav ul{float:left;}
+.nav li{float:left;}
+.nav ul .tv a{padding-left:45px;background:url(img/tv.jpg) no-repeat 20px center;}
+.nav li a{padding:0 20px;color:#fff;font-size:14px;font-weight:600;height:40px;line-height:40px;float:left;}
+.nav li:hover{background:#bc0600;}
+.nav_pull{float:right;width:134px;height:40px;color:#fff;font-size:14px;line-height:40px;}
+
+
+
